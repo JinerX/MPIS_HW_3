@@ -1,0 +1,3 @@
+C:/Users/sajno/CLionProjects/MPIS_HW3/cmake-build-debug/CMakeFiles/MPIS_HW3.dir
+C:/Users/sajno/CLionProjects/MPIS_HW3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sajno/CLionProjects/MPIS_HW3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
